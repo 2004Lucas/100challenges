@@ -1,0 +1,6 @@
+/*
+2) Make a program that reads a person's name and shows a welcome message for them:
+Ex:
+What is your name? João da Silva
+Hello João da Silva, nice to meet you!
+*/

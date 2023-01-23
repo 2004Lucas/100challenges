@@ -1,0 +1,7 @@
+/*
+4) Develop an algorithm that reads two integers and shows the sum between them.
+Ex:
+Enter a value: 8
+Enter another value: 5
+The sum between 8 and 5 is equal to 13.
+*/

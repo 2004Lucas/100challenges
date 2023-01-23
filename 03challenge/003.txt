@@ -1,0 +1,7 @@
+/*
+3) Create a program that reads an employee's name and salary, displaying a message at the end.
+Ex:
+Employee's name: Maria do Carmo
+Salary: 1850.45
+Employee Maria do Carmo has a salary of R$ 1850.45 in June.
+*/
