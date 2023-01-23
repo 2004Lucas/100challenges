@@ -1,0 +1,4 @@
+/*
+9)Make an algorithm that readshow much money a person has in their wallet
+(in Brazilian Real) and shows how many dollars they can buy. Consider US$1.00 = R$3.45.
+*/

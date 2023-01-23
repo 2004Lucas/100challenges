@@ -1,0 +1,12 @@
+/*
+8)  Develop a program that reads a distance in meters and shows the relative values in other measurements.
+Ex:
+Enter a distance in meters: 185.72
+The distance of 185.7m corresponds to:
+0.18572Km
+18.572Dam
+1.8572Hm
+1857.2dm
+18572.0cm
+185720.0mm
+*/
