@@ -1,0 +1,4 @@
+/*
+18) Make a program that reads a person's birth year, calculates their age,
+and then shows whether or not they are eligible to vote.
+*/

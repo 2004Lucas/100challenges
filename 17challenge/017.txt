@@ -1,0 +1,5 @@
+/*
+17) Write a program that asks for a car's speed. If it exceeds 80Km/h, display a message
+saying that the user has been fined. In this case, display the fine amount, charging $5
+for every Km above the speed limit.
+*/

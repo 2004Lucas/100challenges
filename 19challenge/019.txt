@@ -1,0 +1,4 @@
+/*
+19) Create an algorithm that reads a student's name and two grades, calculates their average, and displays it on the screen.
+Finally, analyze the average and show whether the student had a good performance (if it was above 7.0).
+*/
